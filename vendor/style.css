@@ -1,0 +1,46 @@
+body{
+	background-color:#e7e3ff;
+	line-height: normal;
+	font-size : 14px;
+	font-family: 'Questrial', sans-serif;
+}
+/*///*/
+.tester{
+	background-color: grey;
+	border: 1px solid black;
+}
+.app-top-box{
+	background-color: white;
+	height:80px;
+}
+.app-main{
+	background-color: white;
+}
+.app-box{
+	padding:10px;
+	height:76px;
+	width:100%;
+}
+.app-container{
+	height:700px;
+	width:100%;
+}
+.app-image{
+	height:80%;
+	width:100%;
+}
+.app-footer-box{
+	background-color: white;
+	padding: 10px;
+	height:140px;
+	margin-top:23px;
+}
+.app-side{
+	background-color: white;
+	height: 298px;
+	width:100%;
+}
+#liveReportTable{
+	width:100%;
+	height:100%;
+}
